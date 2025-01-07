@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/arrawin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrawin/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/arrawin/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -24,6 +25,10 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/arrawin/Leetcode/tree/master/1524-string-matching-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
