@@ -1,19 +1,14 @@
 class Solution {
-    public int totalSteps(int[] nums) {
-        int n = nums.length;
-        int[][] stack = new int[n][2];
-        int r = 0;
-        int max = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            int curTurn = 0;
-            while (r > 0 && stack[r - 1][0] < nums[i]) {
-                int[] cur = stack[--r];
-                curTurn = Math.max(curTurn + 1, cur[1]);
+        public int totalSteps(int[] A) {
+        int n = A.length, res = 0, j = -1;
+        int dp[] = new int[n], stack[] = new int[n];
+        for (int i = n - 1; i >= 0; --i) {
+            while (j >= 0 && A[i] > A[stack[j]]) {
+                dp[i] = Math.max(++dp[i], dp[stack[j--]]);
+                res = Math.max(res, dp[i]);
             }
-            stack[r][0] = nums[i];
-            stack[r++][1] = curTurn;
-            max = Math.max(max, curTurn);
+            stack[++j] = i;
         }
-        return max;
+        return res;
     }
 }
