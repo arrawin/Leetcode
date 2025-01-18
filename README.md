@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arrawin/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
@@ -72,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arrawin/Leetcode/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arrawin/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
