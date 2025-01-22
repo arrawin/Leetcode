@@ -25,6 +25,7 @@
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/arrawin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrawin/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/arrawin/Leetcode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arrawin/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/arrawin/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrawin/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2145-grid-game](https://github.com/arrawin/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/arrawin/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/arrawin/Leetcode/tree/master/2465-shifting-letters-ii) |
 ## String Matching
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/arrawin/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [2145-grid-game](https://github.com/arrawin/Leetcode/tree/master/2145-grid-game) |
 ## Math
 |  |
 | ------- |
