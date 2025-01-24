@@ -124,12 +124,14 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/arrawin/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -153,6 +155,14 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
