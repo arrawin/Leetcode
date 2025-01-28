@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Trie
 |  |
@@ -162,6 +163,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/arrawin/Leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/arrawin/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
 | [2491-smallest-even-multiple](https://github.com/arrawin/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Union Find
 |  |
