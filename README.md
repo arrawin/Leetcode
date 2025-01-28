@@ -166,6 +166,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/arrawin/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
+| [2083-three-divisors](https://github.com/arrawin/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/arrawin/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Union Find
 |  |
@@ -195,7 +196,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/arrawin/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/arrawin/Leetcode/tree/master/2491-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/arrawin/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
