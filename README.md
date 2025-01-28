@@ -78,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/arrawin/Leetcode/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/arrawin/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
 | [2491-smallest-even-multiple](https://github.com/arrawin/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Union Find
@@ -192,6 +194,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/arrawin/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
