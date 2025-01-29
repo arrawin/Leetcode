@@ -102,6 +102,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/arrawin/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
 ## Bit Manipulation
 |  |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/arrawin/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/arrawin/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/arrawin/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
@@ -202,6 +204,10 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/arrawin/Leetcode/tree/master/2083-three-divisors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arrawin/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
