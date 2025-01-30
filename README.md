@@ -5,6 +5,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/arrawin/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
+| [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/arrawin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrawin/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -23,6 +24,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/arrawin/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
@@ -60,6 +62,7 @@
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arrawin/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -104,6 +107,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/arrawin/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
+| [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +138,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
