@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/arrawin/Leetcode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
@@ -75,6 +76,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
@@ -105,6 +107,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/arrawin/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
@@ -126,6 +129,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Tree
 |  |
@@ -213,6 +217,10 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arrawin/Leetcode/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
