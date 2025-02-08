@@ -12,6 +12,7 @@ class NumberContainers {
         if(index_val.containsKey(index))
         {
             int new_val = index_val.get(index);
+            if(new_val == number) return ;
             val_index.get(new_val).remove(index);
             if(val_index.get(new_val).isEmpty())
             {
