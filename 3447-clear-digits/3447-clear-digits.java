@@ -1,13 +1,23 @@
 class Solution {
     public String clearDigits(String s) {
-        StringBuilder str = new StringBuilder(s);
-        if( Character.isDigit( str.charAt(0) ) ) str.deleteCharAt(0);
-        for(int i = 0 ; i < str.length() ; i++){
-            if((Character.isDigit(str.charAt(i)))){
-                str.delete( i - 1 , i+1);
-                i-=2;
-            }
-        }
+        StringBuilder str = new StringBuilder();
+        int char_index = -1 , check_factor ;
+        for( check_factor = 0 ; check_factor < s.length() ; check_factor++)
+        {
+            char ch = s.charAt( check_factor );
+             if( ch>='a' && ch<='z'){
+                str.append( ch );
+                char_index+=1;
+
+             }
+             else{
+                if(check_factor!=0)
+                {
+                    str.deleteCharAt(char_index);
+                    char_index-=1;
+                }
+             }
+        } 
         return str.toString();
     }
 }
