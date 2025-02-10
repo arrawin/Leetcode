@@ -15,6 +15,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/arrawin/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/arrawin/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arrawin/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/arrawin/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arrawin/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
 |  |
@@ -88,11 +89,13 @@
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [3447-clear-digits](https://github.com/arrawin/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
+| [3447-clear-digits](https://github.com/arrawin/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
