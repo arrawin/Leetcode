@@ -50,6 +50,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arrawin/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arrawin/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arrawin/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arrawin/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arrawin/Leetcode/tree/master/3429-special-array-i) |
 ## Prefix Sum
@@ -97,6 +98,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arrawin/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/arrawin/Leetcode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/arrawin/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2434-design-a-number-container-system](https://github.com/arrawin/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arrawin/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
 | ------- |
