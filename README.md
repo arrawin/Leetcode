@@ -209,6 +209,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/arrawin/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/arrawin/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/arrawin/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/arrawin/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
 | ------- |
@@ -263,6 +264,10 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/arrawin/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/arrawin/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
