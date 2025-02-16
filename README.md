@@ -10,6 +10,7 @@
 | [1524-string-matching-in-an-array](https://github.com/arrawin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrawin/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arrawin/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/arrawin/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arrawin/Leetcode/tree/main/1963-76-1422-maximum-score-after-splitting-a-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arrawin/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -110,6 +111,7 @@
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/arrawin/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arrawin/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/arrawin/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2434-design-a-number-container-system](https://github.com/arrawin/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/arrawin/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
