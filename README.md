@@ -94,6 +94,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arrawin/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -169,12 +170,14 @@
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
