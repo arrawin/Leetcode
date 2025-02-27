@@ -153,6 +153,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
 | [2509-minimize-xor](https://github.com/arrawin/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arrawin/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -225,6 +226,7 @@
 | [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arrawin/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/arrawin/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
 | [2083-three-divisors](https://github.com/arrawin/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/arrawin/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arrawin/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/arrawin/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
 ## Combinatorics
 |  |
 | ------- |
