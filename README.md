@@ -170,6 +170,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arrawin/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/arrawin/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/arrawin/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/arrawin/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/arrawin/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/arrawin/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
 ## Combinatorics
