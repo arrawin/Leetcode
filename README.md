@@ -326,6 +326,10 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arrawin/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/arrawin/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
