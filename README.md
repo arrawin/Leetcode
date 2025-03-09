@@ -63,6 +63,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arrawin/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arrawin/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arrawin/Leetcode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -343,6 +344,7 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arrawin/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
