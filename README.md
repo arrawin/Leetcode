@@ -31,6 +31,7 @@
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/arrawin/Leetcode/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arrawin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arrawin/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/arrawin/Leetcode/tree/master/0283-move-zeroes) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/arrawin/Leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/arrawin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/arrawin/Leetcode/tree/master/0322-coin-change) |
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
