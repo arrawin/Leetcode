@@ -68,6 +68,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arrawin/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arrawin/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3723-sum-of-good-numbers](https://github.com/arrawin/Leetcode/tree/master/3723-sum-of-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
