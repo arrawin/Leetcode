@@ -36,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arrawin/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/arrawin/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arrawin/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/arrawin/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/arrawin/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/arrawin/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arrawin/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -135,6 +137,7 @@
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/arrawin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/arrawin/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/arrawin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -176,6 +179,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arrawin/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/arrawin/Leetcode/tree/master/2509-minimize-xor) |
@@ -256,6 +260,7 @@
 | [0202-happy-number](https://github.com/arrawin/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/arrawin/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/arrawin/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/arrawin/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
@@ -285,6 +290,7 @@
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/arrawin/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arrawin/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
