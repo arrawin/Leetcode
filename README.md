@@ -6,6 +6,7 @@
 | [0013-roman-to-integer](https://github.com/arrawin/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/arrawin/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -138,6 +139,7 @@
 | [0141-linked-list-cycle](https://github.com/arrawin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/arrawin/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/arrawin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -159,6 +161,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/arrawin/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -369,6 +372,10 @@
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arrawin/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
