@@ -68,6 +68,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arrawin/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arrawin/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/arrawin/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arrawin/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arrawin/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arrawin/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -156,6 +157,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/arrawin/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/arrawin/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arrawin/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -302,6 +304,7 @@
 | [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/arrawin/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Divide and Conquer
 |  |
 | ------- |
