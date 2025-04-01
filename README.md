@@ -15,6 +15,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arrawin/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arrawin/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/arrawin/Leetcode/tree/main/1963-76-1422-maximum-score-after-splitting-a-string) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/arrawin/Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/arrawin/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arrawin/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
