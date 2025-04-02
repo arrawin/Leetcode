@@ -62,6 +62,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/arrawin/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/arrawin/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/arrawin/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/arrawin/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -159,6 +160,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arrawin/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arrawin/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2434-design-a-number-container-system](https://github.com/arrawin/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/arrawin/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/arrawin/Leetcode/tree/master/2083-three-divisors) |
+| [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Memoization
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 | [0283-move-zeroes](https://github.com/arrawin/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/arrawin/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/arrawin/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Design
 |  |
