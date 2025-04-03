@@ -1,23 +1,23 @@
 class Solution {
     public String clearDigits(String s) {
-        StringBuilder str = new StringBuilder();
-        int char_index = -1 , check_factor ;
-        for( check_factor = 0 ; check_factor < s.length() ; check_factor++)
-        {
-            char ch = s.charAt( check_factor );
-             if( ch>='a' && ch<='z'){
-                str.append( ch );
-                char_index+=1;
-
-             }
-             else{
-                if(check_factor!=0)
-                {
-                    str.deleteCharAt(char_index);
-                    char_index-=1;
-                }
-             }
-        } 
-        return str.toString();
+       Stack<Character> stack = new Stack<>();
+       int len = 0;
+       for(int i = 0 ; i < s.length() ; i++)
+       {
+        if(s.charAt(i)>=97 && s.charAt(i)<=122){
+            stack.push(s.charAt(i));
+            len++;
+        }
+        else{
+            stack.pop();
+            len--;
+        }
+       }
+       StringBuilder str = new StringBuilder(len);
+       for(char ch : stack){
+              str.append(ch);
+       }
+       return str.toString();
+       }
+    
     }
-}
