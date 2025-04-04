@@ -215,6 +215,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arrawin/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/arrawin/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/arrawin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/arrawin/Leetcode/tree/master/0143-reorder-list) |
@@ -347,6 +348,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arrawin/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/arrawin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/arrawin/Leetcode/tree/master/0143-reorder-list) |
