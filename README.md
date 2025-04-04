@@ -222,6 +222,7 @@
 | [0206-reverse-linked-list](https://github.com/arrawin/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/arrawin/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/arrawin/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arrawin/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
@@ -357,6 +358,7 @@
 | [0283-move-zeroes](https://github.com/arrawin/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/arrawin/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arrawin/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/arrawin/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Design
