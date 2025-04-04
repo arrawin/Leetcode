@@ -2,10 +2,11 @@ class Solution {
     public int maximumWealth(int[][] accounts) {
         int max_wealth = 0;
         int sum;
-        for(int i = 0 ; i < accounts.length ; i++){
+        for(var sal : accounts){
             sum = 0;
-            for(int j = 0 ; j < accounts[0].length ; j++){
-                sum+=accounts[i][j];
+            for(int var_sal : sal)
+            {
+                sum+=var_sal;
                 if(max_wealth<sum){
                     max_wealth = sum;
                 }
