@@ -159,6 +159,7 @@
 | [0496-next-greater-element-i](https://github.com/arrawin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/arrawin/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1848-sum-of-unique-elements](https://github.com/arrawin/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arrawin/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -239,6 +240,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -256,6 +259,7 @@
 | [0322-coin-change](https://github.com/arrawin/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/arrawin/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/arrawin/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
@@ -263,6 +267,7 @@
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
