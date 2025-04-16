@@ -83,6 +83,7 @@
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arrawin/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/arrawin/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arrawin/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/arrawin/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/arrawin/Leetcode/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/arrawin/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -187,6 +188,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/arrawin/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/arrawin/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/arrawin/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/arrawin/Leetcode/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/arrawin/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -449,6 +451,7 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arrawin/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/arrawin/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
 ## Queue
 |  |
