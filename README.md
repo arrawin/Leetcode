@@ -146,6 +146,7 @@
 | [0020-valid-parentheses](https://github.com/arrawin/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/arrawin/Leetcode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/arrawin/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/arrawin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
@@ -271,6 +272,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -278,6 +280,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -299,6 +302,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Heap (Priority Queue)
