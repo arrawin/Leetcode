@@ -103,6 +103,7 @@
 | [3429-special-array-i](https://github.com/arrawin/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arrawin/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/arrawin/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/arrawin/Leetcode/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
