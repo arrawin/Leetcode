@@ -241,6 +241,7 @@
 | [0191-number-of-1-bits](https://github.com/arrawin/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arrawin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/arrawin/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/arrawin/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/arrawin/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -347,6 +348,7 @@
 | [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/arrawin/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arrawin/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arrawin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/arrawin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/arrawin/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
