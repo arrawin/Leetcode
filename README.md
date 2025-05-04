@@ -278,6 +278,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/arrawin/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -288,6 +289,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/arrawin/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/arrawin/Leetcode/tree/master/0200-number-of-islands) |
@@ -301,6 +303,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/arrawin/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/arrawin/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/arrawin/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -312,6 +315,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/arrawin/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/arrawin/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arrawin/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
