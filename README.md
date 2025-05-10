@@ -99,6 +99,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/arrawin/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/arrawin/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arrawin/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arrawin/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/arrawin/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arrawin/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/arrawin/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -216,6 +217,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arrawin/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/arrawin/Leetcode/tree/master/2509-minimize-xor) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arrawin/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Counting
 |  |
 | ------- |
