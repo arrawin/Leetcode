@@ -65,6 +65,7 @@
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arrawin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/arrawin/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/arrawin/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arrawin/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
