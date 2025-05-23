@@ -63,6 +63,7 @@
 | [0485-max-consecutive-ones](https://github.com/arrawin/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/arrawin/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/arrawin/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/arrawin/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -226,6 +227,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arrawin/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/arrawin/Leetcode/tree/master/2509-minimize-xor) |
@@ -419,6 +421,7 @@
 | [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/arrawin/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arrawin/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arrawin/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arrawin/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -528,6 +531,10 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arrawin/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->-->
 # LeetCode Topics
 ## String 
