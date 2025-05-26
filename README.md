@@ -68,6 +68,7 @@
 | [0682-baseball-game](https://github.com/arrawin/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arrawin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/arrawin/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -429,6 +430,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/arrawin/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
+| [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arrawin/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arrawin/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/arrawin/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -482,6 +484,7 @@
 | [0283-move-zeroes](https://github.com/arrawin/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/arrawin/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/arrawin/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/arrawin/Leetcode/tree/master/2551-apply-operations-to-an-array) |
