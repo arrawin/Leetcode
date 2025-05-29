@@ -398,6 +398,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/arrawin/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/arrawin/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/arrawin/Leetcode/tree/master/0504-base-7) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arrawin/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/arrawin/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/arrawin/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
