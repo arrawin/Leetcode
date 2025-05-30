@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/arrawin/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/arrawin/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/arrawin/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/arrawin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/arrawin/Leetcode/tree/master/0412-fizz-buzz) |
@@ -204,6 +205,7 @@
 | [0141-linked-list-cycle](https://github.com/arrawin/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arrawin/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/arrawin/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/arrawin/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -431,6 +433,7 @@
 | [0056-merge-intervals](https://github.com/arrawin/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/arrawin/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arrawin/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/arrawin/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/arrawin/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/arrawin/Leetcode/tree/master/0506-relative-ranks) |
