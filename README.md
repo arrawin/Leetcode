@@ -43,6 +43,7 @@
 | [0041-first-missing-positive](https://github.com/arrawin/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/arrawin/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/arrawin/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/arrawin/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/arrawin/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -508,6 +509,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/arrawin/Leetcode/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/arrawin/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arrawin/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
