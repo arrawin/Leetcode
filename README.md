@@ -33,6 +33,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/arrawin/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/arrawin/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arrawin/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arrawin/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arrawin/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -473,6 +474,7 @@
 | [2083-three-divisors](https://github.com/arrawin/Leetcode/tree/master/2083-three-divisors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arrawin/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arrawin/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Memoization
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/arrawin/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/arrawin/Leetcode/tree/master/2634-minimum-common-value) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arrawin/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
 | ------- |
