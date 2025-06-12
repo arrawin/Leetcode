@@ -129,6 +129,7 @@
 | [3639-zero-array-transformation-i](https://github.com/arrawin/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/arrawin/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/arrawin/Leetcode/tree/master/3723-sum-of-good-numbers) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/arrawin/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
 |  |
