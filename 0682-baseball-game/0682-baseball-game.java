@@ -1,38 +1,27 @@
 class Solution {
     public int calPoints(String[] operations) {
-        Stack<Integer> st = new Stack<>();
-        String s;
-        for(int ind = 0 ; ind < operations.length ; ind++){
-            s = operations[ind];
-            if(s.equals("C")){
-                if(!st.isEmpty()){
-                    st.pop();
-                }
-            }
-            else if(s.equals("D")){
-                if(!st.isEmpty()){
-                    int ele = st.peek();
-                    st.push(ele*2);
-                }
-            }
-            else if(s.equals("+")){
-                if(!st.isEmpty()){
-                    int top = st.pop();
-                    int second_top = st.peek();
-                    st.push(top);
-                    st.push(second_top + top);
-                }
-            }
-            else{
-                  st.push(Integer.parseInt(s));
-            }
+       Stack<Integer> stack = new Stack<>();
+       for(String op : operations){
+        if(op.equals("+")){
+            int last = stack.pop();
+            int second_last = stack.peek();
+            stack.push(last);
+            stack.push(last+second_last);
         }
-        int ans = 0;
-        if(st.isEmpty()) return ans;
-        for(int n : st){
-            ans += n;
+        else if(op.equals("C")){
+            stack.pop();
         }
-        return ans;
-        
+        else if(op.equals("D")){
+            stack.push(2*stack.peek());
+        }
+        else{
+            stack.push(Integer.parseInt(op));
+        }
+       }
+       int sum = 0;
+       for(int scores : stack){
+        sum+=scores;
+       }
+     return sum;
     }
 }
