@@ -79,6 +79,7 @@
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/arrawin/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arrawin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/arrawin/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/arrawin/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -200,6 +201,7 @@
 | [0657-robot-return-to-origin](https://github.com/arrawin/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/arrawin/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/arrawin/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arrawin/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/arrawin/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/arrawin/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -460,6 +462,7 @@
 | [0506-relative-ranks](https://github.com/arrawin/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/arrawin/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arrawin/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arrawin/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/arrawin/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -572,6 +575,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/arrawin/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Shortest Path
 |  |
 | ------- |
