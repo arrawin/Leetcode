@@ -95,6 +95,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/arrawin/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/arrawin/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arrawin/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/arrawin/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/arrawin/Leetcode/tree/master/2145-grid-game) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/arrawin/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/arrawin/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
