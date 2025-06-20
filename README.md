@@ -37,6 +37,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/arrawin/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arrawin/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/arrawin/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arrawin/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arrawin/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
@@ -249,6 +250,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/arrawin/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arrawin/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/arrawin/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arrawin/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Greedy
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arrawin/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/arrawin/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/arrawin/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arrawin/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -436,6 +439,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/arrawin/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/arrawin/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/arrawin/Leetcode/tree/master/3371-harshad-number) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/arrawin/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arrawin/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Union Find
 |  |
