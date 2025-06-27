@@ -1,22 +1,20 @@
 class Solution {
     public boolean check(int[] nums) {
+        int count = 0;
         int len = nums.length;
-        int count = 1;
-        if(len==1){
+        if (len == 1) {
             return true;
         }
-        for(int i = 1 ; i < (2*len) ; i++){
-            if(nums[(i-1)%len] <= nums[i%len]){
+        for (int i = 1; i <2*len; i++) {
+           if(nums[(i-1)%len] <= nums[i%len]){
                 count++;
+            } else {
+                count = 0;
             }
-            else{
-                count = 1;
-            }
-            if(count == len){
+            if (count == len-1) {
                 return true;
             }
         }
-        
-    return false;
+        return false;
     }
 }
