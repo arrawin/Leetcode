@@ -78,6 +78,7 @@
 | [0506-relative-ranks](https://github.com/arrawin/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/arrawin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/arrawin/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/arrawin/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -235,6 +236,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arrawin/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/arrawin/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/arrawin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -275,6 +277,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/arrawin/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/arrawin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/arrawin/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arrawin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/arrawin/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -485,6 +488,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/arrawin/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/arrawin/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/arrawin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/arrawin/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arrawin/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -597,6 +601,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arrawin/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/arrawin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arrawin/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/arrawin/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
