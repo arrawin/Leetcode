@@ -141,6 +141,7 @@
 | [3639-zero-array-transformation-i](https://github.com/arrawin/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/arrawin/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3723-sum-of-good-numbers](https://github.com/arrawin/Leetcode/tree/master/3723-sum-of-good-numbers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/arrawin/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/arrawin/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
@@ -278,6 +279,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arrawin/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arrawin/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/arrawin/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/arrawin/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Counting
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/arrawin/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/arrawin/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/arrawin/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/arrawin/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
 |  |
 | ------- |
