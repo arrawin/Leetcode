@@ -137,6 +137,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arrawin/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/arrawin/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arrawin/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arrawin/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arrawin/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/arrawin/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -313,6 +314,7 @@
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [1013-fibonacci-number](https://github.com/arrawin/Leetcode/tree/master/1013-fibonacci-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arrawin/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arrawin/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
