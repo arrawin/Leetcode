@@ -100,6 +100,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arrawin/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/arrawin/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/arrawin/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1813-maximum-erasure-value](https://github.com/arrawin/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/arrawin/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/arrawin/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/arrawin/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -253,6 +254,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arrawin/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arrawin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/arrawin/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1813-maximum-erasure-value](https://github.com/arrawin/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/arrawin/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/arrawin/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arrawin/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -624,6 +626,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arrawin/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/arrawin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/arrawin/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arrawin/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/arrawin/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/arrawin/Leetcode/tree/master/3483-alternating-groups-ii) |
