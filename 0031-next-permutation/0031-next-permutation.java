@@ -16,18 +16,20 @@ class Solution {
         return nums;
     }
     public void nextPermutation(int[] nums) {
-        int ind = nums.length-2;
-        while(ind>=0 && nums[ind]>= nums[ind+1]){
-            ind--;
-        }
-        if(ind>=0)
-        {
-            int j = nums.length-1;
-            while(nums[j] <= nums[ind]){
-                j--;
-            }
-            swap(nums , ind , j);
-        }
-            reverse(nums,ind+1);
+       int ind = nums.length - 2;
+       while( ind >= 0 && nums[ind] >= nums[ind+1] )
+       {
+         ind--;
+       }
+       if( ind >= 0)
+       {
+         int compare_val = nums.length-1;
+         while(compare_val > ind  && nums[compare_val] <= nums[ind])
+         {
+            compare_val--;
+         }
+         swap( nums , compare_val , ind);
+       }
+       reverse(nums,ind+1);
    }
 }
