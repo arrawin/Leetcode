@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arrawin/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/arrawin/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/arrawin/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/arrawin/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/arrawin/Leetcode/tree/master/0035-search-insert-position) |
@@ -504,6 +505,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arrawin/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/arrawin/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/arrawin/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/arrawin/Leetcode/tree/master/0075-sort-colors) |
@@ -561,6 +563,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/arrawin/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arrawin/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/arrawin/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
