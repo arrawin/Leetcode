@@ -99,6 +99,7 @@
 | [1524-string-matching-in-an-array](https://github.com/arrawin/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arrawin/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arrawin/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1628-count-submatrices-with-all-ones](https://github.com/arrawin/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/arrawin/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/arrawin/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/arrawin/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -210,6 +211,7 @@
 | [0682-baseball-game](https://github.com/arrawin/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/arrawin/Leetcode/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/arrawin/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/arrawin/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arrawin/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -324,6 +326,7 @@
 | [0322-coin-change](https://github.com/arrawin/Leetcode/tree/master/0322-coin-change) |
 | [0472-concatenated-words](https://github.com/arrawin/Leetcode/tree/master/0472-concatenated-words) |
 | [1013-fibonacci-number](https://github.com/arrawin/Leetcode/tree/master/1013-fibonacci-number) |
+| [1628-count-submatrices-with-all-ones](https://github.com/arrawin/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arrawin/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arrawin/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Bit Manipulation
@@ -367,6 +370,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arrawin/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/arrawin/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1628-count-submatrices-with-all-ones](https://github.com/arrawin/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/arrawin/Leetcode/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Tree
 |  |
@@ -447,6 +451,7 @@
 | [0200-number-of-islands](https://github.com/arrawin/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/arrawin/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/arrawin/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1628-count-submatrices-with-all-ones](https://github.com/arrawin/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/arrawin/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/arrawin/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arrawin/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
