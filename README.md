@@ -93,6 +93,7 @@
 | [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/arrawin/Leetcode/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/arrawin/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1018-largest-perimeter-triangle](https://github.com/arrawin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/arrawin/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/arrawin/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/arrawin/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -294,6 +295,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/arrawin/Leetcode/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/arrawin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/arrawin/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/arrawin/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/arrawin/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -492,6 +494,7 @@
 | [0441-arranging-coins](https://github.com/arrawin/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/arrawin/Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/arrawin/Leetcode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/arrawin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/arrawin/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arrawin/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/arrawin/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -537,6 +540,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/arrawin/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/arrawin/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/arrawin/Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1018-largest-perimeter-triangle](https://github.com/arrawin/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/arrawin/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/arrawin/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/arrawin/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
